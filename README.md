@@ -1,5 +1,5 @@
 # Cache Memory Simulator 🖥️
-#### Video Demo: [https://youtu.be/AMEAN1ZwhXI](https://youtu.be/AMEAN1ZwhXI)
+#### Video Demo: [https://youtu.be/DT_A1G98zvs](https://youtu.be/DT_A1G98zvs)
 #### Description:
 
 This project implements a **Cache Memory Simulator** in Java, designed to model the fundamental mapping strategies used in modern computer architecture. The simulator provides support for **Direct Mapping**, **Fully Associative Mapping**, and **Set-Associative Mapping**, while also incorporating **replacement policies** (FIFO, LRU, LFU) and **write policies** (Write-Through vs. Write-Back, Write-Allocate vs. No Write-Allocate).  
